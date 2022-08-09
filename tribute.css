@@ -1,0 +1,30 @@
+body{
+    background-color: #c56644;
+    border-style: double;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+h2{
+    color:beige
+}
+.dora1{
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color:grey;
+    border-style:doubles;
+    border-bottom: 10px;
+    border-radius: 30%;
+    font-family: cursive;
+    font-weight: 100;
+    font-size: medium;
+}
+.dora2{
+    text-align: right;
+}
+#dora3{
+    margin-top:-250px;
+}
