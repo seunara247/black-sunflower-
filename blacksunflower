@@ -1,0 +1,126 @@
+body{
+    background-color: #c56644;
+    border-style: double;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+h2{
+    color:beige
+}
+.dora1{
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color:grey;
+    border-style:doubles;<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRIBUTE TO DORA AKUNYILI</title>
+    <link rel="stylesheet" href="./tribute.css">
+</head>
+<body>
+    <div class="dora1"><h1>TRIBUTE OF PROF NKEM DORA AKUNYILI</h1>
+    </div>
+    <div class="dora2"> <img src="Dora1.jpg" alt="images" width="250px" height="250px"></div>
+<div id="dora3">
+  <P>Professor Dora Nkem Akunyili, pharmacist, former 
+director-general of the Nigerian National Agency for Food and Drug <br>Administration and Control 
+(NAFDAC) who sadly passed away in an Indian hospital a few days ago. My favourite is a story <br> was told 
+to me by someone who had heard her recount it at an event, many years ago.
+Apparently, already as a child at<br> primary school, Dora Akunyili was very bright, and excelled. At the time she
+ had a rival, a boy with whom she often vied for<br> honours. When they finished primary school, she won a scholarship to
+  secondary school, and then on to university, while her <br>rival was not so fortunate. Professor Akunyili told of an 
+  incident, at a motor park on her way back to university in Nsukka at<br> the passengers transport their luggage. 
+  He introduced himself as her old rival. She noticed that he was excited to see her<br> and even more excited to 
+  hear that she was at university studying pharmacy. He insisted on pushing a crumpled note into her<br> hand as 
+  <em>“pocket money to buy bread with.”</em> Professor Akunyili said that she wept in the car all the way from that motor park<br> 
+  back to the university.</P>
+</div>
+  <p>Her determination must have come from experiences like this. Knowing that people had given their last shirt, 
+  figuratively speaking, so that she could reach a position in which she was able to change the society. 
+  It also gave her the common touch and courage that endeared her to so many.
+  Before she was appointed as director-general of NAFDAC in 2001, not many Nigerians had heard of the agency. 
+  At the time of her appointment, the World Health Organization had estimated that 50 per cent of drugs sold in 
+  Nigeria were fake or substandard. Buoyed by the loss of a sister who had died after receiving fake insulin to 
+  treat diabetes, she took on the battle against fake drugs. She launched public campaigns and made sure that drugs 
+  and packaged food and drink items had to be properly licensed. She also closed down medicine markets that for years 
+  had been making profits from trading in substandard medicines. She also tried to tackle the issue of prescription drugs 
+  being sold over the counter by sending officials of her agency on undercover visits to patent medicine shops and 
+  pharmacies that indulged in the practice. In doing this, she became a heroine to the Nigerian public, who 
+  appreciated her efforts and her exemplary public service. While some critics had misgivings about the degree of 
+  publicity that she received for her efforts and argued for a more systematic and effective subtler approach to 
+  tackling the fake drugs problem, there was no doubt that she brought the issue squarely to the forefront of Nigerian 
+  and international attention, winning awards in the process.
+  There were many attempts to deter Prof Akunyili with threats and intimidation, but they all failed to stop her.
+  Following her tenure at NAFDAC, late President Yar’adua, probably impressed by Prof Akunyili as so many, appointed 
+  her as Minister for Information and Communication. Many people criticized her for taking on the role. They felt that 
+  she had sold out, especially when she had to defend unpopular government policies, but she was adamant that she was 
+  still following the same essential call to serve her people.
+  It was while she was Minister for Information and Communication that she performed another courageous act, 
+  which won back many of her earlier admirers. It was early 2010, after President Yar’adua had fallen ill and been 
+  flown to Saudi Arabia for treatment. For weeks, he was not seen in public, and a dangerous vacuum was beginning to 
+  emerge in leadership in Nigeria. Many politicians were loath to speak out even as ordinary Nigerians lamented the 
+  lack of clear information about the president’s whereabouts and condition. At a meeting of the 
+  Federal Executive Council, Professor Akunyili made a bold intervention, tabling a paper that argued that she and her 
+  fellow ministers could no longer be silent while the nation drifted, and asking that the Vice President be formally 
+  appointed as Acting President. As recounted by the journalist Segun Adeniyi in his memoir of his time serving as 
+  President Yar’adua’s spokesman, Prof Akunyili said to him<em>“Segun, my conscience can no longer allow me to keep quiet on 
+  this issue of the president’s absence from the country. I intend to speak about it today in FEC.”</em> Although many tried 
+  to dissuade her, she went ahead and many believed her intervention forced the national assembly to pay attention to 
+  the issue, which helped resolve the impasse.
+  Prof Akunyili’s last public appearance was as a delegate at the National Conference. 
+  By then she had already been diagnosed with cancer. Many at the National Conference were shocked at her physical 
+  appearance, but such was her commitment to public service that she made that effort even though she was obviously 
+  very ill.
+  She was a teacher of many, supervising postgraduate students even after she had been appointed to national office,
+  and a supporter of women. She appointed many women to her inspectorate team at NAFDAC as she felt that they were 
+  less susceptible to corruption than their male counterparts.
+  The health sector, Nigeria and indeed the world has suffered a great loss. It is also poignant that such a 
+  prominent and dedicated Nigerian public servant who had devoted so much to the Nigerian health sector had to seek 
+  medical treatment in India in her final illness. Perhaps one way of honouring her will be to ensure that in future, 
+  Nigerians can be treated locally, without needing to travel to India, Germany and Dubai.</P>
+  <div class="dora">
+  <h2>Here are some memorable moments in Prof. Dora Akunyili's life:</h2>
+  </div>
+  <ul>
+<li>1954: Born in Makurdi, Benue State, Nigeria on the 14th of July to Chief & Mrs Paul Young Edemobi.</li>
+<li>1966: Finished her primary school education.</li>
+<li>1973: Finished from secondary school.</li>
+<li>1978: Obtained her first degree in Pharmacology(B.Pham) at the University of Nigeria, Nsukka (UNN).</li>
+<li>1978-1981: worked as a pharmacist at the University of Nigeria Teaching Hospital (UNTH) Enugu.</li>
+<li>1985: Obtained her PhD at UNN.</li>
+<li>1986-1992: Lectrured at UNN</li>
+<li>1992-1985: Worked as a part-time lecturer at the west African postgraduate School of pharmacists Lagos, Nigeria.</li>
+<li>1996-2001: Worked as a consultant pharmacologist in the Faculty of Medicine, UNN.</li>
+<li>2001: Appointed Director General of the National Agency for Food and Drugs Administration and Control (NAFDAC). 
+Immediately launched an all-out attack against the manufacture and distribution of fake drugs in Nigeria.</li>
+<li>2006: Appointed Chairman of West African Drug Regulatory Agencies Network (WADRAN) in March and Vice Chairman of the 
+International Medical Products Anti-Counterfeiting Task Force (IMPACT) in November</li>
+<li>2008: Ended her tenure as NAFDAC DG.</li>
+<li>2008-2010: Served as Minister of Information and Communication</li>
+<li>2011: Contested for Senate but did not win.</li>
+<li>2014: Died in an India Hospital on June 7 after a long battle with cancer at the age of 59 years. 
+Laid to rest in Agulu in Anambra State in August</li>
+  </ul>
+<a href="https://codepen.io/ElCurio/pen/oYWgYj">https://codepen.io/ElCurio/pen/oYWgYj</a><br>
+<a href="https://nigeriahealthwatch.com/a-tribute-to-professor-dora-nkem-akunyili/">https://nigeriahealthwatch.com/a-tribute-to-professor-dora-nkem-akunyili/</a>
+</body>
+</html>
+    border-bottom: 10px;
+    border-radius: 30%;
+    font-family: cursive;
+    font-weight: 100;
+    font-size: medium;
+}
+.dora2{
+    text-align: right;
+}
+#dora3{
+    margin-top:-250px;
+}
